@@ -130,7 +130,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b75",
-      "Name": "Publiek",
+      "Name": "Buitendienst",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -426,7 +426,7 @@
     },
     {
       "Id": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
-      "Name": "Advanced++"
+      "Name": "Advanced"
     }
   ],
   "StatusTag": [
